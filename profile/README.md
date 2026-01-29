@@ -1,43 +1,44 @@
 ## 📖 Table of contents
-  + [Introduction]()
-  + [Demo]()
-  + [API]()
-  + [System Architecture]()
-  + [ERD]()
-  + [Tech Stack]()
-  + [Monitoring]()
-  + [Directory Structure]()
-  + [How to start]()
-  + [Team Members]()
+  + [Introduction](#-introduction)
+  + [Demo](#-demo)
+  + [API](#-api)
+  + [System Architecture](#-system-architecture)
+  + [ERD](#-erd)
+  + [Tech Stack](#-tech-stack)
+  + [Monitoring](#-monitoring)
+  + [Directory Structure](#-directory-structure)
+  + [How to start](#-how-to-start)
+  + [Team Members](#-team-members)
   
 ## 📣 Introduction
 ### URL
-> 🗝️ [Benefit](url)
+> 🗝️ [BeneFit](url)
 ### Medium
-> 🔎 [Benefit Medium](url)
+> 🔎 [BeneFit Medium](url)
 
-  + 사용자의 소비량 시각화
-  + 각 카드 혜택 확인
-  + 이용중인 구독 서비스 확인 가능
-  + 챗봇으로 자유롭게 질문 가능
+**BeneFit은 개인 금융 관리 및 AI 챗봇 상담 서비스를 제공하는 모바일 애플리케이션입니다.**
+* **사용자의 소비량 시각화**: CODEF API 기반 실시간 지출 내역 및 카테고리별 차트 제공
+* **각 카드 혜택 확인**: 보유 카드의 혜택 분석 및 최적의 활용 방안 제시
+* **이용 중인 구독 서비스 확인**: 분산된 구독 서비스를 한곳에서 관리 및 해지 가능
+* **AI 챗봇 금융 상담**: Google Gemini 기반 24시간 개인화된 금융 조언 및 카드 추천
 
 ## 🕺🏻 Demo
 ### Main
 > 로그인 이후 메인 화면
-
 이미지
+
 ### 소비 차팅 페이지
-> Benefit 접속시 가장 먼저 보이는 화면
+> BeneFit 접속 시 가장 먼저 보이는 화면
 
 여기에 이미지
 
 ### 카드 리스트(추천)
-> 전화번호 기반 로그인 및 회원가입
+> 소비 패턴 분석 기반 최적의 카드 추천 화면
 
 이미지
 
 ### Subscribe
-> 구독 화면  
+> 구독 서비스 통합 관리 화면  
 
 이미지
 
@@ -61,10 +62,10 @@
 
 | Field | Technology of Use |
 | :--- | :--- |
-| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge&logo=Flutter&logoColor=skyblue) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white) |
-| **Database** | ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
-| **AI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge&logo=uvicorn&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) |
+| **AI** | ![Gemini](https://img.shields.io/badge/Gemini-412991?style=for-the-badge&logo=google-gemini&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
 | **ETC** | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
@@ -85,37 +86,57 @@
 | :---: |
 | <img src="이미지_주소_1" width="400"> <img src="이미지_주소_2" width="400"> |
 
-## 📂 Directory Structure
-<details>
-<summary>📌 여기를 클릭하면 내용을 볼 수 있습니다</summary>
+📂 Directory Structure
 
-이 안에 들어가는 내용은 처음에는 숨겨져 있다가, 클릭하면 나타납니다.
-* 리스트도 넣을 수 있고
-* **굵은 글씨**도 가능합니다.
+<details> <summary>📌 BeneFit Project Directory Structure (클릭하여 보기)</summary>
+🖥️ Backend (Django)
+Plaintext
+
+Backend/
+├── config/          # Django 설정 및 URL 구성
+├── users/           # 사용자 인증 및 프로필 관리
+├── cards/           # 카드 정보 및 추천 로직
+├── expense/         # 지출 분석 및 구독 관리
+├── chat/            # Gemini 기반 챗봇 상담
+├── crawling/        # 카드 데이터 수집 스크립트
+└── common/          # 공통 유틸리티 및 베이스 모델
+
+📱 Frontend (Flutter)
+Plaintext
+
+Frontend/
+├── lib/
+│   ├── screens/     # 홈, 분석, 카드, 구독, 챗봇 등 주요 UI 화면
+│   ├── providers/   # Provider 기반 상태 관리 및 API 통신 서비스
+│   ├── models/      # API 응답 및 데이터 구조 정의 모델
+│   ├── widgets/     # 차트 및 공통 UI 컴포넌트
+│   └── utils/       # 공통 상수 및 유틸리티 함수
+└── assets/          # 이미지, 아이콘 및 폰트 리소스
 
 </details>
 
 ## 🧐 How To Start
 ### Backend
-
-git clone --recursive https://github.com/2024-Winter-Bootcamp-team-K/AILIBI-Backend.git
-
+```
+git clone --recursive [https://github.com/2026-Techeer-Winter-Bootcamp-Team-F/Backend.git](https://github.com/2026-Techeer-Winter-Bootcamp-Team-F/Backend.git)
+```
 ### env setting in the Backend folder
   + Backend/.env
-    
-DB_NAME=
-DB_USER=
-DB_PASSWORD=
-DB_HOST=
-DB_PORT=
+```   
+DB_NAME=mydb
+DB_USER=user
+DB_PASSWORD=your_password
+DB_HOST=mysqldb
+DB_PORT=3306
 
-OPENAI_API_KEY=
+GOOGLE_GENAI_API_KEY=your_gemini_key
 
-CLIENT_ID=
-CLIENT_SECRET=
+CODEF_CLIENT_ID=your_id
+CODEF_CLIENT_SECRET=your_secret
+```
+### Run Docker 바꿔야함
 
-### Run Docker
-
+```
 docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml build
 docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml up -d
 docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml down
@@ -123,15 +144,17 @@ docker-compose -f docker-compose-common.yml -f docker-compose-blue.yml down
 docker-compose -f docker-compose-common.yml -f docker-compose-green.yml build
 docker-compose -f docker-compose-common.yml -f docker-compose-green.yml up -d
 docker-compose -f docker-compose-common.yml -f docker-compose-green.yml down
-
+```
 ### Frontend
 
-git clone --Frontend.git
+```
+git clone [https://github.com/2026-Techeer-Winter-Bootcamp-Team-F/Frontend.git](https://github.com/2026-Techeer-Winter-Bootcamp-Team-F/Frontend.git)
+```
 
 ### Install
-
+```
 명령어 작성
-
+```
 
 
 ## 👨‍👩‍👧‍👦 Team Members
