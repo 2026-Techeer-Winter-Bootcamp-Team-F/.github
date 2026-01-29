@@ -64,7 +64,8 @@
 
 
 ## 🛠 ️System Architecture
-<img width="2350" height="1452" alt="systemArchitecture drawio" src="https://github.com/user-attachments/assets/24a401ed-c5a1-4fe3-a856-c4ebb7ab9f8a" />
+<img width="2350" height="1452" alt="systemArchitecture drawio" src="https://github.com/user-attachments/assets/ef7e2837-3fa7-47b5-9bc5-b239c285f117" />
+
 
 
 ## 🔑 ERD
