@@ -14,7 +14,7 @@
 ### URL
 > 🗝️ [BeneFit](url)
 ### Medium
-> 🔎 [BeneFit Medium](url)
+> 🔎 [BeneFit Medium](https://medium.com/@khhclub777/siliconvalley-summer-bootcamp-team-f-benefit-7833c421cbf5)
 
 **BeneFit은 개인 금융 관리 및 AI 챗봇 상담 서비스를 제공하는 모바일 애플리케이션입니다.**
 * **사용자의 소비량 시각화**: CODEF API 기반 실시간 지출 내역 및 카테고리별 차트 제공
