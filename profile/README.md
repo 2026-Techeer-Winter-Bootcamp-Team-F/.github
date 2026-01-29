@@ -377,6 +377,7 @@ flutter build web
 
 | Name | 한정수 | 김용진 | 김형호 | 정상겸 | 정하밈 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Profile** | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> |
+| **Profile** | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="<img width="1000" height="926" alt="image" src="https://github.com/user-attachments/assets/1da405ac-b925-44e2-8956-17c6f98499e7" />
+" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> |
 | **Role** | Leader<br>Full Stack<br>DevOps<br>Design | Backend<br>DevOps | Backend<br>DevOps | Frontend<br>Design | Frontend<br>Design |
 | **GitHub** | [![GitHub](https://img.shields.io/badge/깃이름-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃주소) | [![GitHub](https://img.shields.io/badge/깃이름-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃주소) | [![GitHub](https://img.shields.io/badge/KimHyeongHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KimHyeongHo) | [![GitHub](https://img.shields.io/badge/Kenneth_Jeong-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ken-jeong) | [![GitHub](https://img.shields.io/badge/HaMimJ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HaMim-J) |
