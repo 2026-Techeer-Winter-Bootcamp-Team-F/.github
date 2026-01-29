@@ -64,8 +64,8 @@
 
 
 ## 🛠 ️System Architecture
-제미나이로 수정해야함
-<img width="1115" height="526" alt="image" src="https://github.com/user-attachments/assets/ee6bd574-4e0e-4cfd-8bea-63229dd93e15" />
+<img width="2350" height="1452" alt="systemArchitecture drawio" src="https://github.com/user-attachments/assets/24a401ed-c5a1-4fe3-a856-c4ebb7ab9f8a" />
+
 
 ## 🔑 ERD
 <img width="2277" height="1171" alt="image" src="https://github.com/user-attachments/assets/496bd8a3-db1f-4531-91c0-ec7fd2f39ba5" />
