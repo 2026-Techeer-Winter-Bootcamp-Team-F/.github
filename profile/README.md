@@ -86,19 +86,13 @@
 
 ## 📊 Monitoring
 ### Prometheus & Grafana
-| Django |
+| Django Metrics|
 | :---: |
-| <img src="이미지_주소_1" width="400"> <img src="이미지_주소_2" width="400"> |
+| <img width="2369" height="1238" alt="image" src="https://github.com/user-attachments/assets/337e5f78-44f7-4bc1-95b9-1fa767892847" />|
 
-| 더있으면 넣기 |
+| Container Resources |
 | :---: |
-| <img src="이미지_주소_3" width="400"> <img src="이미지_주소_4" width="400"> |
-
-## 🔧 Logging
-
-| Nginx |
-| :---: |
-| <img src="이미지_주소_1" width="400"> <img src="이미지_주소_2" width="400"> |
+| <img width="2862" height="1062" alt="image" src="https://github.com/user-attachments/assets/e386dd6b-f142-487c-bce1-0a209d14d0b3" />|
 
 ## 📂 Directory Structure
 
@@ -378,7 +372,6 @@ flutter build web
 
 | Name | 한정수 | 김용진 | 김형호 | 정상겸 | 정하밈 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Profile** | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img width="100" height="926" alt="image" src="https://github.com/user-attachments/assets/1da405ac-b925-44e2-8956-17c6f98499e7">
-" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> |
-| **Role** | Leader<br>Full Stack<br>DevOps<br>Design | Backend<br>DevOps | Backend<br>DevOps | Frontend<br>Design | Frontend<br>Design |
+| **Profile** | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img width="100" height="926" alt="image" src="https://github.com/user-attachments/assets/1da405ac-b925-44e2-8956-17c6f98499e7"> | <img src="이미지주소" width="100"> | <img width="100" height="381" alt="image" src="https://github.com/user-attachments/assets/cb578e98-a9d9-442d-979c-74c440bf014f" /> |
+| **Role** | Leader<br>Full Stack<br>DevOps<br>Design | Backend<br>DevOps | Backend<br>DevOps | Frontend<br>Design | Backend<br>DevOps |
 | **GitHub** | [![GitHub](https://img.shields.io/badge/깃이름-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃주소) | [![GitHub](https://img.shields.io/badge/깃이름-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃주소) | [![GitHub](https://img.shields.io/badge/KimHyeongHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KimHyeongHo) | [![GitHub](https://img.shields.io/badge/Kenneth_Jeong-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ken-jeong) | [![GitHub](https://img.shields.io/badge/HaMimJ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HaMim-J) |
