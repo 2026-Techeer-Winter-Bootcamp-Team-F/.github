@@ -1,8 +1,9 @@
 
 
 ## Benefit
+<div align="center">
 <img width="515" height="484" alt="image" src="https://github.com/user-attachments/assets/d02e2885-5640-448a-aebb-0b61c1965035" />
-
+</div>
 ## 📖 Table of contents
   + [Introduction](#-introduction)
   + [Demo](#-demo)
@@ -30,33 +31,43 @@
 ## 🕺🏻 Demo
 ### Main Page
 > 로그인 이후 가장 먼저 보이는 화면
->
-> ![홈탭1](https://github.com/user-attachments/assets/817fd8c9-124c-46e4-98a9-354976661b05)
+<div align="center">
+  
+![홈탭1](https://github.com/user-attachments/assets/817fd8c9-124c-46e4-98a9-354976661b05)
 
+</div>
 
 ### 소비 차팅 페이지
 > 소비량을 알기 쉽게 시각화한 화면
->
-> ![소비 차팅](https://github.com/user-attachments/assets/8cb088ac-4a3e-4e3e-a2a8-5837a742fb08)
+<div align="center">
+  
+![소비 차팅](https://github.com/user-attachments/assets/8cb088ac-4a3e-4e3e-a2a8-5837a742fb08)
 
+</div>
 
 ### 카드 페이지
 > 내가 보유한 카드와 받을 수 있는 카드 혜택을 보여주는 화면
->
-> ![카드추천](https://github.com/user-attachments/assets/a53d9395-70c7-43d5-91db-2e825bbe4c0b)
+<div align="center">
+  
+![카드추천](https://github.com/user-attachments/assets/a53d9395-70c7-43d5-91db-2e825bbe4c0b)
 
+</div>
 
 ### Subscribe
 > 구독 서비스 통합 관리 화면
->
-> ![구독화면](https://github.com/user-attachments/assets/8c9f1eaf-24ad-46f2-a44b-56f911984acc)
+<div align="center">
+  
+![구독화면](https://github.com/user-attachments/assets/8c9f1eaf-24ad-46f2-a44b-56f911984acc)
 
+</div>
 
 ### ChatBot
 > 사용자가 카드 소비를 더 효율적으로 할 수 있게 피드백을 주는 챗봇
->
-> ![챗봇들](https://github.com/user-attachments/assets/26c92243-e133-4eeb-a948-dd25d330ffb9)
+<div align="center">
+  
+![챗봇들](https://github.com/user-attachments/assets/26c92243-e133-4eeb-a948-dd25d330ffb9)
 
+</div>
 
 
 ## 📗 API
