@@ -4,17 +4,18 @@
 <div align="center">
 <img width="515" height="484" alt="image" src="https://github.com/user-attachments/assets/d02e2885-5640-448a-aebb-0b61c1965035" />
 </div>
+
 ## 📖 Table of contents
   + [Introduction](#-introduction)
   + [Demo](#-demo)
   + [API](#-api)
-  + [System Architecture](#-system-architecture)
+  + [System Architecture](#system-architecture)
   + [ERD](#-erd)
   + [Tech Stack](#-tech-stack)
   + [Monitoring](#-monitoring)
   + [Directory Structure](#-directory-structure)
   + [How to start](#-how-to-start)
-  + [Team Members](#-team-members)
+  + [Team Members](#team-members)
   
 ## 📣 Introduction
 ### URL
@@ -77,7 +78,7 @@
 <img width="1499" height="889" alt="image" src="https://github.com/user-attachments/assets/ffd812e5-b9ce-4cd0-bc8d-838f2e03363d" />
 <img width="1490" height="241" alt="image" src="https://github.com/user-attachments/assets/4a927927-fa32-424e-a7be-5eb02ecf0d1f" />
 
-
+<a name="system-architecture"></a>
 ## 🛠 ️System Architecture
 <img width="2350" height="1452" alt="systemArchitecture drawio" src="https://github.com/user-attachments/assets/ef7e2837-3fa7-47b5-9bc5-b239c285f117" />
 
@@ -382,7 +383,7 @@ flutter build ios
 flutter build web
 ```
 
-
+<a name="team-members"></a>
 ## 👨‍👩‍👧‍👦 Team Members
 
 | Name | 한정수 | 김용진 | 김형호 | 정하밈 |
