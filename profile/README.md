@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/1193b7b4-84f3-49c4-b4dc-1a81ef6d7172
 ## Benefit
 <img width="515" height="484" alt="image" src="https://github.com/user-attachments/assets/d02e2885-5640-448a-aebb-0b61c1965035" />
 
@@ -30,16 +32,14 @@
 ## 🕺🏻 Demo
 ### Main Page
 > 로그인 이후 가장 먼저 보이는 화면
-이미지
+https://github.com/user-attachments/assets/e480868d-132e-497f-920f-0a78be5941c9
 
 ### 소비 차팅 페이지
 > 소비량을 알기 쉽게 시각화한 화면
+https://github.com/user-attachments/assets/64686a72-a63b-4f31-9191-d566f313410a
 
 ### 카드 페이지
 > 내가 보유한 카드와 받을 수 있는 카드 혜택을 보여주는 화면
-
-여기에 이미지
-
 
 ### Subscribe
 > 구독 서비스 통합 관리 화면  
