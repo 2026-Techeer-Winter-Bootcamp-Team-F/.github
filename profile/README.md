@@ -1,5 +1,6 @@
 ## Benefit
-<img width="418" height="426" alt="image" src="https://github.com/user-attachments/assets/6f76e128-1b72-41e2-b469-db1b6d0e0adf" />
+<img width="515" height="484" alt="image" src="https://github.com/user-attachments/assets/d02e2885-5640-448a-aebb-0b61c1965035" />
+
 
 
 ## 📖 Table of contents
@@ -364,8 +365,8 @@ flutter build web
 
 ## 👨‍👩‍👧‍👦 Team Members
 
-| Name | 한정수 | 김용진 | 김형호 | 정상겸 | 정하밈 |
+| Name | 한정수 | 김용진 | 김형호 | 정하밈 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Profile** | <img width="100" height="391" alt="image" src="https://github.com/user-attachments/assets/8e6bcaa3-a8db-4a52-a356-d20f1631835f" />|<img src="이미지주소" width="100"> | <img width="100" height="926" alt="image" src="https://github.com/user-attachments/assets/1da405ac-b925-44e2-8956-17c6f98499e7"> |<img src="이미지주소" width="100"> |<img width="100" height="381" alt="image" src="https://github.com/user-attachments/assets/cb578e98-a9d9-442d-979c-74c440bf014f" /> |
-| **Role** | Leader<br>Full Stack<br>DevOps<br>Design | Backend<br>DevOps | Backend<br>DevOps | Frontend<br>Design | Backend<br>DevOps |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/jeongsu2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeongsu2) | [![GitHub](https://img.shields.io/badge/깃이름-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃주소) | [![GitHub](https://img.shields.io/badge/KimHyeongHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KimHyeongHo) | [![GitHub](https://img.shields.io/badge/Kenneth_Jeong-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ken-jeong) | [![GitHub](https://img.shields.io/badge/HaMimJ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HaMim-J) |
+| **Profile** | <img width="100" height="391" alt="image" src="https://github.com/user-attachments/assets/8e6bcaa3-a8db-4a52-a356-d20f1631835f" />|<img src="이미지주소" width="100"> | <img width="100" height="926" alt="image" src="https://github.com/user-attachments/assets/1da405ac-b925-44e2-8956-17c6f98499e7"> |<img width="100" height="381" alt="image" src="https://github.com/user-attachments/assets/cb578e98-a9d9-442d-979c-74c440bf014f" /> |
+| **Role** | Leader<br>Full Stack<br>DevOps<br>Design | Backend<br>DevOps | Backend<br>DevOps | Backend<br>DevOps |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/jeongsu2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeongsu2) | [![GitHub](https://img.shields.io/badge/깃이름-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃주소) | [![GitHub](https://img.shields.io/badge/KimHyeongHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KimHyeongHo) | [![GitHub](https://img.shields.io/badge/HaMimJ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HaMim-J) |
