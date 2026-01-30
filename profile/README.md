@@ -18,8 +18,7 @@
   + [Team Members](#team-members)
   
 ## 📣 Introduction
-### URL
-> 🗝️ [BeneFit](url)
+
 ### Medium
 > 🔎 [BeneFit Medium](https://medium.com/@khhclub777/siliconvalley-summer-bootcamp-team-f-benefit-7833c421cbf5)
 
