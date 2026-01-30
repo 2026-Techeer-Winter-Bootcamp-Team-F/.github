@@ -3,16 +3,16 @@
 
 
 ## 📖 Table of contents
-  + [Introduction](#--introduction)
+  + [Introduction](#-introduction)
   + [Demo](#-demo)
   + [API](#-api)
-  + [System Architecture](#--system-architecture)
+  + [System Architecture](#-system-architecture)
   + [ERD](#-erd)
   + [Tech Stack](#-tech-stack)
   + [Monitoring](#-monitoring)
   + [Directory Structure](#-directory-structure)
   + [How to start](#-how-to-start)
-  + [Team Members](#--team-members)
+  + [Team Members](#-team-members)
   
 ## 📣 Introduction
 ### URL
