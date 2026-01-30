@@ -2,8 +2,6 @@
 
 ## Benefit
 <img width="515" height="484" alt="image" src="https://github.com/user-attachments/assets/d02e2885-5640-448a-aebb-0b61c1965035" />
-<video src="https://github.com/user-attachments/assets/1193b7b4-84f3-49c4-b4dc-1a81ef6d7172" autoplay loop muted playsinline></video>
-
 
 ## 📖 Table of contents
   + [Introduction](#-introduction)
